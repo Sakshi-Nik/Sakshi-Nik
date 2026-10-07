@@ -108,18 +108,6 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 - Designed a web-based hospital portal where doctors manage schedules and patients book appointments online.
 - Used object-oriented design and a relational MySQL schema to handle scheduling logic and prevent booking conflicts.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -133,12 +121,6 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 | CodeChef | 155+ |
 | HackerRank | 120+ |
 | GeeksforGeeks | 100+ |
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
-
-</div>
 
 ---
 
