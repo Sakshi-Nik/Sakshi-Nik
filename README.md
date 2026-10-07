@@ -37,7 +37,7 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/coding.gif" width="260" alt="coding" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUswvP6TN93pFZSQeWL8MIDUXKJ2lnaodZOtfR6XfI1Q&s=10" width="260" alt="coding" />
 
 </td>
 </tr>
