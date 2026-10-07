@@ -1,5 +1,3 @@
-<!-- Replace YOUR_GITHUB_USERNAME everywhere below with your real GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakshi%20Nikam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Machine%20Learning%20%7C%20Problem%20Solving&descAlignY=58&descSize=18" width="100%" />
@@ -8,7 +6,7 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi-Nik)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-nikam-20051b289)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-14B8A6?style=for-the-badge&logo=netlify&logoColor=white)](https://sakshi-nikam.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SakshiiN/)
@@ -62,10 +60,18 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 
 ## 🚀 Projects
 
+### 🔹 3D Geometry & CAD Model Analyzer
+
+[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi-Nik/3DGeometry_And_CAD_Model_Analyzer)
+
+- A tool for analyzing 3D geometry and CAD models.
+
+---
+
 ### 🔹 WhatsApp Chat Analyzer
 **Jun 2025 – Dec 2025** · *Python, Machine Learning, NLP, Pandas, Matplotlib, Streamlit*
 
-[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_WHATSAPP_REPO)
+[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi-Nik/Whatsapp-Chat-Analyzer)
 
 - Built an ML-powered tool that parses exported WhatsApp chats and generates insights such as most active hours, frequent words, and emoji trends.
 - Structured the codebase into modular, reusable functions, keeping preprocessing, analysis, and visualization cleanly separated.
@@ -75,7 +81,7 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 ### 🔹 Email / SMS Spam Detection
 **Jun 2025 – Dec 2025** · *Python, Scikit-learn, Machine Learning*
 
-[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_SPAM_REPO)
+[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi-Nik/SMS-Spam-Classification)
 
 - Built a binary classification model that flags spam messages, using text preprocessing to improve detection reliability.
 - Organized preprocessing and training into reusable functions with CountVectorizer, TF-IDF Vectorizer, and a trained classifier for a clean pipeline.
@@ -85,7 +91,7 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 ### 🔹 Coffee Management System
 **Jan 2025 – May 2025** · *Android, Java, XML, SQLite*
 
-[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_COFFEE_REPO)
+[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi-Nik/Coffee-Management-System)
 
 - Built an Android app to manage coffee shop orders, inventory, and billing.
 - Applied core OOP principles (encapsulation, inheritance, polymorphism) in the Java backend, with SQLite storage and XML-designed UI layouts.
@@ -95,8 +101,7 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 ### 🔹 Weather App
 **Jan 2025 – May 2025** · *JavaScript, HTML, CSS, OpenWeatherMap API*
 
-[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_WEATHER_REPO)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-14B8A6?style=for-the-badge&logo=netlify&logoColor=white)](YOUR_WEATHER_LIVE_LINK)
+[![GitHub Repo](https://img.shields.io/badge/GITHUB_REPO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi-Nik/weather-app)
 
 - Developed an interactive weather app that fetches and displays real-time weather data for any searched city using the OpenWeatherMap API.
 
@@ -107,7 +112,6 @@ I'm currently in my final year at **D. Y. Patil College of Engineering & Technol
 
 - Designed a web-based hospital portal where doctors manage schedules and patients book appointments online.
 - Used object-oriented design and a relational MySQL schema to handle scheduling logic and prevent booking conflicts.
-
 
 ---
 
@@ -153,10 +157,10 @@ I'm always open to:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshi-Nik)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-nikam-20051b289)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-14B8A6?style=for-the-badge&logo=netlify&logoColor=white)](https://sakshi-nikam.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SakshiiN/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshinikam266@gmail.com)
 
 <br/>
